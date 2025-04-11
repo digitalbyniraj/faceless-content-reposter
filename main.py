@@ -1,5 +1,4 @@
 from downloader import download_youtube_video
-from watermarker import add_watermark
 
 def main():
     print("📥 Faceless Content Reposter")
